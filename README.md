@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+
 
 # Hello World  👋  أهلا باعالم
 Software Engineering graduate from **KFUPM**, Saudi Arabia.
-
-</div>
 
 ## Techs used:
 - 🆂 Swift 
