@@ -18,17 +18,24 @@ Here are some ideas to get you started:
 
 # Hello World  👋  أهلا باعالم
 Software Engineering graduate from **KFUPM**, Saudi Arabia.
-
+<!-- - 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+ -->
 ## Techs used:
-- 🆂 Swift 
-- 🔥 Firebase 
+
+- 🧑🏻‍💻 Xcode 
 - 🐦 Flutter 
 - ☕️ Spring Boot
+- 🔥 Firebase 
 - 🐍 Flask
 - 🐳 Docker 
 - 🎨 Figma 
-
-
 - and of course git 😜
 
 ## Programming Languages: 
