@@ -70,6 +70,16 @@ Software Engineering graduate from **KFUPM**, Saudi Arabia.
     <img alt="Khalid's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipkalid" />
   </p>
   
+## Github stats
+![IpKalid's github stats](https://github-readme-stats.vercel.app/api?username=ipkalid&count_private=true&theme=tokyonight&show_icons=true&hide=contribs,prs)
+![IpKalid's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ipkalid&langs_count=8&theme=tokyonight)
+
+
+<br/>
+<div align="right">
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mal7othify.mal7othify)
+  
   
 
 
