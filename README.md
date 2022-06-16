@@ -67,7 +67,7 @@ Software Engineering graduate from **KFUPM**, Saudi Arabia.
     <br>
     <img alt="Khalid's github stats" src="https://github-readme-stats.alioh.vercel.app/api?username=ipkalid&show_icons=true&hide_border=true" />
     <br>
-<!--     <img alt="Khalid's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipkalid" /> -->
+    <img alt="Khalid's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipkalid" />
   </p>
   
   
