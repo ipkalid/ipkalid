@@ -63,16 +63,12 @@ Software Engineering graduate from **KFUPM**, Saudi Arabia.
     <a href="https://twitter.com/iKAlhazmi" alt="Twitter"><img src="https://raw.githubusercontent.com/alioh/alioh/master/twitter-fill.png" width = 50px></a>
   </p>
 
-  <p align="center">  
-    <br>
-    <img alt="Khalid's github stats" src="https://github-readme-stats.alioh.vercel.app/api?username=ipkalid&show_icons=true&hide_border=true" />
-    <br>
-    <img alt="Khalid's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipkalid" />
-  </p>
   
 ## Github stats
-![IpKalid's github stats](https://github-readme-stats.vercel.app/api?username=ipkalid&count_private=true&theme=tokyonight&show_icons=true&hide=contribs,prs)
+
+ ![IpKalid's github stats](https://github-readme-stats.vercel.app/api?username=ipkalid&count_private=true&theme=tokyonight&show_icons=true&hide=contribs,prs)
 ![IpKalid's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ipkalid&langs_count=8&theme=tokyonight)
+
 
 
 <br/>
